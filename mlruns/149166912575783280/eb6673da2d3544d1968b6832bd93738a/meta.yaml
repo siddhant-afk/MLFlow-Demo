@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/149166912575783280/eb6673da2d3544d1968b6832bd93738a/artifacts
+end_time: 1731404297542
+entry_point_name: ''
+experiment_id: '149166912575783280'
+lifecycle_stage: active
+run_id: eb6673da2d3544d1968b6832bd93738a
+run_name: flawless-ox-883
+run_uuid: eb6673da2d3544d1968b6832bd93738a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731404274756
+status: 3
+tags: []
+user_id: '91814'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/774472220698361835/4f342d7e8efe46e695bb57f12eb807e7/artifacts
+end_time: 1731333239627
+entry_point_name: ''
+experiment_id: '774472220698361835'
+lifecycle_stage: active
+run_id: 4f342d7e8efe46e695bb57f12eb807e7
+run_name: unique-grouse-74
+run_uuid: 4f342d7e8efe46e695bb57f12eb807e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731333239390
+status: 3
+tags: []
+user_id: '91814'
